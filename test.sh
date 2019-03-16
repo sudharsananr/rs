@@ -3,4 +3,3 @@ out=$(($a + $b))
 #echo "$out"
 uname -a
 whoami
-ping -c 1 bing.com
