@@ -1,4 +1,4 @@
 echo "hi"
 echo "Im the boss"
-out = $(($a + $b))
+out = $((a + b))
 echo $out
