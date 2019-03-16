@@ -4,3 +4,6 @@ out=$(($a + $b))
 uname -a
 date
 whoami
+
+echo $out
+echo "jksbdkfweifqifl hisd qw]"
