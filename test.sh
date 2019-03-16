@@ -6,4 +6,3 @@ date
 whoami
 
 echo $out
-echo "jksbdkfweifqifl hisd qw]"
