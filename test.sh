@@ -1,3 +1,3 @@
 echo "hi RS"
-out = $(expr "$a" + "$b")
+out = $(( $a + $b ))
 echo $out
