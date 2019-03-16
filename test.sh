@@ -1,3 +1,3 @@
-echo "hi RS"
-out = $(( $a + $b ))
+echo "hi RS seems fixed"
+out=$(( $a + $b ))
 echo "$out"
