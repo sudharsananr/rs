@@ -6,4 +6,4 @@ whoami
 
 #echo $out
 #
-echo "this is dnkjenfkjnakjf update as it is awesome"
+echo "this is changed for second project"
